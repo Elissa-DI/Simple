@@ -13,4 +13,16 @@ const FeatureCard = ({ icon, title, content, index }) => (
       </h4>
       <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
         {content}
+      </p>
+    </div>
+  </div>
+);
+
+const Business = () =>  (
+  <section id="features" className={layout.section}>
+    <div className={layout.sectionInfo}>
+      <h2 className={styles.heading2}>
+        You do the business, <br className="sm:block hidden" /> we’ll handle
+        the money.
+      </h2>
  
