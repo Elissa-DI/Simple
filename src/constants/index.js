@@ -80,3 +80,34 @@ export const feedback = [
   },
 ];
 
+export const stats = [
+  {
+    id: "stats-1",
+    title: "User Active",
+    value: "3800+",
+  },
+  {
+    id: "stats-2",
+    title: "Trusted by Company",
+    value: "230+",
+  },
+  {
+    id: "stats-3",
+    title: "Transaction",
+    value: "$230M+",
+  },
+];
+
+export const footerLinks = [
+  {
+    title: "Useful Links",
+    links: [
+      {
+        name: "Content",
+        link: "https://www.hoobank.com/content/",
+      },
+      {
+        name: "How it Works",
+        link: "https://www.hoobank.com/how-it-works/",
+      },
+ 
