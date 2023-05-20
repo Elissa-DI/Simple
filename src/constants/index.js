@@ -110,4 +110,21 @@ export const footerLinks = [
         name: "How it Works",
         link: "https://www.hoobank.com/how-it-works/",
       },
- 
+      {
+        name: "Create",
+        link: "https://www.hoobank.com/create/",
+      },
+      {
+        name: "Explore",
+        link: "https://www.hoobank.com/explore/",
+      },
+      {
+        name: "Terms & Services",
+        link: "https://www.hoobank.com/terms-and-services/",
+      },
+    ],
+  },
+  {
+    title: "Community",
+    links: [
+     
