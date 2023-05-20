@@ -60,16 +60,6 @@ export const feedback = [
     title: "Founder & Leader",
     img: people02,
   },
-
-
-
-  
-  //here please
-
-
-
-
-
   {
     id: "feedback-3",
     content:
